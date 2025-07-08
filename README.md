@@ -1,8 +1,7 @@
-<h1 align="center">Victor Augusto ⚔️</h1>
-
+<h1 align="center">Victor Augusto</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Back-End+Developer;Flask+%7C+SQLAlchemy+%7C+JWT+%7C+REST;Projetos+estruturados+%F0%9F%94%A5;Testes+automatizados+%7C+Valida%C3%A7%C3%B5es;Let's+fucking+go!+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Back-End+Developer" />
 </p>
 
 ---
@@ -18,7 +17,7 @@
 
 ### ⚔️ Skills
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,git,github,vscode,linux,docker,postman" />
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,git,github,vscode,docker,postman" />
 
 > **Stack atual**: Python • Flask • SQLAlchemy • Docker • Postman • GitHub Actions
 
@@ -35,24 +34,13 @@
 
 ### 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=VictorAugustoDella&show_icons=true&theme=tokyonight&locale=pt-br" 
-        alt="GitHub Stats"
-        height="180"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAugustoDella&layout=compact&theme=tokyonight&locale=pt-br" 
-        alt="Top Langs"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAugustoDella&layout=compact&theme=tokyonight&locale=pt-br" 
+    alt="Top Langs"
+    height="180"
+  />
+
 
 
 
@@ -77,10 +65,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-VictorAugustoDella-181717?style=for-the-badge&logo=github)](https://github.com/VictorAugustoDella)
 
 ---
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1la2p6a2syd3psOWh2dWc3a3psMHZ6ZXFnbTBtdzh3ZWZlZ2g3MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
-
