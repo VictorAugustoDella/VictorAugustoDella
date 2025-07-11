@@ -9,9 +9,9 @@
 ### 🧠 Sobre mim
 
 - 🧪 Dev **back-end** focado em **projetos reais**, com arquitetura de produção
-- 🔐 Conhecimento em `segurança`, `criptografia`, boas práticas de `API` e código limpo
+- 🔐 Conhecimento em `segurança`, `banco de dados`, boas práticas de `API` e código limpo
 - 🧱 Experiência com `JWT`, `validações`, `testes`, `Blueprints` e estrutura completa **RESTful**
-- 🎯 Buscando minha **primeira vaga** como dev ainda em **2025**
+- 🎯 Buscando **oportunidades** como dev
 
 ---
 
@@ -29,6 +29,7 @@
 - 🧩 Design de APIs RESTful
 - 🐳 Docker (containerizando projetos Flask)
 - 📦 Clean architecture + boas práticas de deploy
+- ☁️ Serviços em nuvem
 
 ---
 
@@ -60,7 +61,7 @@
 
 ### 💬 Contato
 
-[![Gmail](https://img.shields.io/badge/email-victoraugustochettos@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:victoraugustochettos@gmail.com)
+[![Gmail](https://img.shields.io/badge/email-victoraugustordsabia@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:victoraugustordsabia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VictorAugustoDella-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-augusto-della-89509731b)
 [![GitHub](https://img.shields.io/badge/GitHub-VictorAugustoDella-181717?style=for-the-badge&logo=github)](https://github.com/VictorAugustoDella)
 
