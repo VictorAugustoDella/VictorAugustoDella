@@ -23,15 +23,6 @@
 
 ---
 
-### 📚 Atualmente estudando:
-
-- 🧪 Testes com `pytest`
-- 🧩 Design de APIs RESTful
-- 🐳 Docker (containerizando projetos Flask)
-- 📦 Clean architecture + boas práticas de deploy
-- ☁️ Serviços em nuvem
-
----
 
 ### 📈 GitHub Stats
 
