@@ -8,45 +8,30 @@
 
 ### 🧠 Sobre mim
 
-- 🧪 Dev **back-end** focado em **projetos reais**, com arquitetura de produção
-- 🔐 Conhecimento em `segurança`, `banco de dados`, boas práticas de `API` e código limpo
-- 🧱 Experiência com `JWT`, `validações`, `testes`, `Blueprints` e estrutura completa **RESTful**
+- 🧪 Dev **back-end** em **Python** com experiência em APIs RESTful 
+- 🔐 Trabalhando com Flask, SQLAlchemy, Docker e banco de dados PostgreSQL
 - 🎯 Buscando **oportunidades** como dev
 
 ---
 
 ### ⚔️ Skills
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,git,github,vscode,docker,postman" />
+<img src="https://skillicons.dev/icons?i=python,flask,postgresql,sqlite,git,github,docker,postman,SQLAlchemy" />
 
-> **Stack atual**: Python • Flask • SQLAlchemy • Docker • Postman • GitHub Actions
+> **Stack atual**: Python • Flask • PostgreSQL • SQLite • Git/Github • Docker • Postman
 
----
-
-
-### 📈 GitHub Stats
-
-
-  <img 
+ <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAugustoDella&layout=compact&theme=tokyonight&locale=pt-br" 
     alt="Top Langs"
     height="180"
   />
 
-
-
-
 ---
 
- <h1 >🛠️ Projetos principais </h1> 
-
-- 🔥 [`TasklyAPI`](https://github.com/VictorAugustoDella/TasklyAPI)  
-  API RESTful com autenticação JWT, testes unitários, validação, tratamento de erros e estrutura profissional com Blueprints.
+ <h1 >🛠️ Projeto principal </h1> 
 
 - 💸 **[`finance-manager-api`](https://github.com/VictorAugustoDella/finance-manager-api)**
     API RESTful para controle de finanças pessoais, com autenticação JWT, filtros por categoria e data, e geração de resumos mensais. Construída com Flask, SQLAlchemy e MySQL
-
-    
 
 ---
 
