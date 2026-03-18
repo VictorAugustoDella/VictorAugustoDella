@@ -16,12 +16,12 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=python,flask" />
+<img src="https://skillicons.dev/icons?i=python,flask,postgres" />
 
-> **Stack atual**: Flask • Python • PostgreSQL
+> **Current stack**: Flask • Python • PostgreSQL
 
  ### 🏆 Strongest project
-**[Price Tracker API](LINK_DO_REPOSITORIO_AQUI)**  
+**[Price tracker API](https://github.com/VictorAugustoDella/Price-tracker-API)**  
 A backend application built to monitor product prices, store historical price data and expose useful metrics through a REST API.  
 This project showcases API design, database relationships, automated tests, migrations and a more production-minded backend structure.
 
